@@ -1,0 +1,12 @@
+.detailcontainer{
+    
+        border: 5px outset lightblue;
+        width: 600px;
+        border-color:lightblue;
+        margin: 10px;
+
+    
+}
+.button{
+    margin: 10px;
+}
